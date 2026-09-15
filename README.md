@@ -1,16 +1,36 @@
-## Hi there 👋
+**Hi, I'm Rahil Ansari**
 
-<!--
-**rahilarshi2212/rahilarshi2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Azure Cloud & DevOps Engineer focused on Infrastructure Automation, CI/CD, Cloud Platforms and Enterprise Solutions.
 
-Here are some ideas to get you started:
+**Core Technologies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Microsoft Azure
+Terraform
+Git & GitHub
+GitHub Actions
+Azure DevOps
+Docker
+Kubernetes
+Linux
+PowerShell
+
+**Areas of Expertise**
+
+Infrastructure as Code (IaC)
+Cloud Automation
+CI/CD Pipeline Implementation
+Platform Engineering
+Enterprise Cloud Deployments
+Monitoring & Logging
+Cloud Governance
+
+**Featured Projects**
+
+Azure Landing Zone Implementation
+Terraform Infrastructure Automation
+GitHub Actions CI/CD Pipelines
+Azure Hub-Spoke Network Architecture
+AKS Platform Deployment
+
+**Connect With Me**
+LinkedIn: www.linkedin.com/in/ansarirahil
