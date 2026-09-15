@@ -32,6 +32,12 @@ Azure Cloud & DevOps Engineer specializing in Infrastructure Automation, CI/CD, 
 - Azure Hub-Spoke Network Architecture
 - AKS Platform Deployment
 
+## Certifications
+
+- DevOps Foundations: DevSecOps
+- Nexthink Certified Professional
+- Nexthink Advanced Analytics
+  
 ## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/ansarirahil
