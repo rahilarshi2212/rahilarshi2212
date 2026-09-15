@@ -1,6 +1,6 @@
 # Hi, I'm Rahil Ansari
 
-Azure Cloud & DevOps Engineer focused on Infrastructure Automation, CI/CD, Cloud Platforms and Enterprise Solutions.
+Azure Cloud & DevOps Engineer specializing in Infrastructure Automation, CI/CD, Platform Engineering and Enterprise Cloud Solutions.
 
 ## Core Technologies
 
