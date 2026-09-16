@@ -1,29 +1,41 @@
 # Hi, I'm Rahil Ansari
 
-Azure Cloud & DevOps Engineer specializing in Infrastructure Automation, CI/CD, Platform Engineering and Enterprise Cloud Solutions.
+Azure Cloud & DevOps Engineer | Terraform | Azure DevOps | GitHub Actions | Infrastructure Automation
 
-## Core Technologies
+## 🛠️ Technical Skills
 
+### ☁️ Cloud
 - Microsoft Azure
+- AWS
+
+### 🏗️ Infrastructure as Code
 - Terraform
-- Git & GitHub
-- GitHub Actions
+
+### 🔄 CI/CD & DevOps
 - Azure DevOps
+- GitHub Actions
+- Git & GitHub
+
+### 🐳 Containers & Orchestration
 - Docker
 - Kubernetes
+
+### 🖥️ Systems & Automation
 - Linux
+- Windows Server
 - PowerShell
+- Bash
 
-## Areas of Expertise
+## 🎯 Areas of Expertise
 
-- Infrastructure as Code (IaC)
-- Cloud Automation
+- Infrastructure as Code (IaC) with Terraform
+- Azure Infrastructure Automation
 - CI/CD Pipeline Implementation
-- Platform Engineering
-- Enterprise Cloud Deployments
-- Monitoring & Logging
-- Cloud Governance
-
+- Cloud Migration & Infrastructure Modernization
+- Infrastructure Monitoring & Logging
+- Cloud Governance & Resource Management
+- Configuration & Systems Automation
+  
 ## Featured Projects
 
 - Azure Landing Zone Implementation
@@ -35,8 +47,12 @@ Azure Cloud & DevOps Engineer specializing in Infrastructure Automation, CI/CD, 
 ## Certifications
 
 - DevOps Foundations: DevSecOps
-- Nexthink Certified Professional
-- Nexthink Advanced Analytics
+- Microsoft Certified Technology Specialist (MCTS)
+- Certified Nexthink Associate in Digital Adoption Management
+- Certified Nexthink Professional in IT Support
+- Certified Nexthink Professional in DEX Management
+- Certified Nexthink Associate in IT Support
+- Generative AI Foundations Certificate Program
   
 ## Connect With Me
 
